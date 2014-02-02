@@ -1,7 +1,7 @@
 # The Micro-Framework Rosetta Stone
 ===================================
 
-With all the micro-frameworks that are available for web development, how does one choose?  The code generators below will allow you to create the exact same database-backed web application using several different micro-frameworks.  As micro-frameworks are an ideal fit for single-page applications, each generated web application uses the same [AngularJS](http://angularjs.org/) front-end.  Hopefully this will give you an idea what it is like to develop with each micro-framework.  Enjoy!
+With all the micro-frameworks that are available for web development, how does one choose?  The code generators below will allow you to create the exact same database-backed web application using several different micro-frameworks.  As micro-frameworks are ideal for providing RESTful web services to single-page applications, each generated web application uses the same [AngularJS](http://angularjs.org/) front-end.  Hopefully this will give you an idea what it is like to develop with each micro-framework.  Enjoy!
 
 Language | Micro-Framework | ORM | Code Generator
 --- | --- | --- | ---
