@@ -11,7 +11,7 @@ Go | [Martini](http://martini.codegangsta.io) | [Gorp](https://github.com/cooper
 Haskell | [Scotty](http://hackage.haskell.org/package/scotty) | [Persistent](http://hackage.haskell.org/package/persistent) | https://github.com/rayokota/generator-angular-scotty
 Java | [Dropwizard](http://dropwizard.codahale.com) | [Hibernate](http://hibernate.org) | https://github.com/rayokota/generator-angular-dropwizard
 Javascript | [Express.js](http://expressjs.com) | [Sequelize](http://sequelizejs.com) | https://github.com/rayokota/generator-angular-express-sequelize
-Perl | [Mojolicious](ihttp://mojolicio.us) | [DBIx::Class](http://search.cpan.org/perldoc?DBIx::Class) | https://github.com/rayokota/generator-angular-mojolicious
+Perl | [Mojolicious](http://mojolicio.us) | [DBIx::Class](http://search.cpan.org/perldoc?DBIx::Class) | https://github.com/rayokota/generator-angular-mojolicious
 Python | [Flask](http://flask.pocoo.org/) | [SQLAlchemy](http://www.sqlalchemy.org) | https://github.com/rayokota/generator-angular-flask
 Ruby | [Sinatra](http://www.sinatrarb.com/) | [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) or [DataMapper](http://datamapper.org) | https://github.com/rayokota/generator-angular-sinatra
 Scala | [Scalatra](http://scalatra.org) | [Squeryl](http://squeryl.org) | https://github.com/rayokota/generator-angular-scalatra
