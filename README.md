@@ -13,6 +13,7 @@ Java | [Dropwizard](http://dropwizard.codahale.com) | [Hibernate](http://hiberna
 Javascript | [Express.js](http://expressjs.com) | [Sequelize](http://sequelizejs.com) | https://github.com/rayokota/generator-angular-express-sequelize
 Lua | [Orbit](http://keplerproject.github.io/orbit/) | [Orbit ORM](http://keplerproject.github.io/orbit/reference.html) | https://github.com/rayokota/generator-angular-orbit
 Perl | [Mojolicious](http://mojolicio.us) | [DBIx::Class](http://search.cpan.org/perldoc?DBIx::Class) | https://github.com/rayokota/generator-angular-mojolicious
+PHP | [Slim](http://www.slimframework.com/) | [Eloquent ORM](http://laravel.com/docs/eloquent) | https://github.com/rayokota/generator-angular-slim
 Python | [Flask](http://flask.pocoo.org/) | [SQLAlchemy](http://www.sqlalchemy.org) | https://github.com/rayokota/generator-angular-flask
 Ruby | [Sinatra](http://www.sinatrarb.com/) | [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) or [DataMapper](http://datamapper.org) | https://github.com/rayokota/generator-angular-sinatra
 Scala | [Scalatra](http://scalatra.org) | [Squeryl](http://squeryl.org) | https://github.com/rayokota/generator-angular-scalatra
