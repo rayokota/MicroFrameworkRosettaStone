@@ -8,6 +8,7 @@ Language | Micro-Framework | ORM | Code Generator
 Clojure | [Luminus](http://www.luminusweb.net) | [Korma](http://sqlkorma.com) | https://github.com/rayokota/generator-angular-luminus
 Elixir | [Dynamo](https://github.com/dynamo/dynamo) | [Ecto](https://github.com/elixir-lang/ecto) | https://github.com/rayokota/generator-angular-dynamo
 Go | [Martini](http://martini.codegangsta.io) | [Gorp](https://github.com/coopernurse/gorp) | https://github.com/rayokota/generator-angular-go-martini
+Groovy | [Ratpack](http://www.ratpack.io/) | [GORM](http://grails.org/doc/2.3.x/guide/GORM.html) | https://github.com/rayokota/generator-angular-ratpack
 Haskell | [Scotty](http://hackage.haskell.org/package/scotty) | [Persistent](http://hackage.haskell.org/package/persistent) | https://github.com/rayokota/generator-angular-scotty
 Java | [Dropwizard](http://dropwizard.codahale.com) | [Hibernate](http://hibernate.org/orm) | https://github.com/rayokota/generator-angular-dropwizard
 Javascript | [Express.js](http://expressjs.com) | [Sequelize](http://sequelizejs.com) | https://github.com/rayokota/generator-angular-express-sequelize
