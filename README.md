@@ -15,6 +15,7 @@ Haskell | [Scotty](http://hackage.haskell.org/package/scotty) | [Persistent](htt
 Java | [Dropwizard](http://dropwizard.codahale.com) | [Hibernate](http://hibernate.org/orm) | https://github.com/rayokota/generator-angular-dropwizard
 Javascript | [Express.js](http://expressjs.com) | [Sequelize](http://sequelizejs.com) | https://github.com/rayokota/generator-angular-express-sequelize
 Lua | [Orbit](http://keplerproject.github.io/orbit/) | [Orbit ORM](http://keplerproject.github.io/orbit/reference.html) | https://github.com/rayokota/generator-angular-orbit
+OCaml | [Opium](https://github.com/rgrinberg/opium) | [Mirage ORM](https://github.com/mirage/orm) | https://github.com/rayokota/generator-angular-opium
 Perl | [Mojolicious](http://mojolicio.us) | [DBIx::Class](http://search.cpan.org/perldoc?DBIx::Class) | https://github.com/rayokota/generator-angular-mojolicious
 PHP | [Slim](http://www.slimframework.com/) | [Eloquent ORM](http://laravel.com/docs/eloquent) | https://github.com/rayokota/generator-angular-slim
 Python | [Flask](http://flask.pocoo.org/) | [SQLAlchemy](http://www.sqlalchemy.org) | https://github.com/rayokota/generator-angular-flask
