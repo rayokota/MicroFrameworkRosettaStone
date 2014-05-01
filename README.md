@@ -5,7 +5,7 @@ With all the micro-frameworks that are available for web development, how does o
 
 Language | Micro-Framework | ORM | Code Generator
 --- | --- | --- | ---
-C# | [Nancy](http://nancyfx.org/) | [ORMLite](https://github.com/ServiceStack/ServiceStack.OrmLite) | https://github.com/rayokota/generator-angular-nancy
+C# | [Nancy](http://nancyfx.org/) | [NHibernate](http://nhforge.org/) or [ORMLite](https://github.com/ServiceStack/ServiceStack.OrmLite) | https://github.com/rayokota/generator-angular-nancy
 Clojure | [Luminus](http://www.luminusweb.net) | [Korma](http://sqlkorma.com) | https://github.com/rayokota/generator-angular-luminus
 Common Lisp | [Caveman2](http://8arrow.org/caveman/) | [Integral](https://github.com/fukamachi/integral) or [Postmodern](http://marijnhaverbeke.nl/postmodern/) | https://github.com/rayokota/generator-angular-caveman2
 Elixir | [Dynamo](https://github.com/dynamo/dynamo) | [Ecto](https://github.com/elixir-lang/ecto) | https://github.com/rayokota/generator-angular-dynamo
