@@ -9,7 +9,7 @@ C# | [Nancy](http://nancyfx.org/) | [NHibernate](http://nhforge.org/) or [ORMLit
 Clojure | [Luminus](http://www.luminusweb.net) | [Korma](http://sqlkorma.com) | https://github.com/rayokota/generator-angular-luminus
 Common Lisp | [Caveman2](http://8arrow.org/caveman/) | [Integral](https://github.com/fukamachi/integral) or [Postmodern](http://marijnhaverbeke.nl/postmodern/) | https://github.com/rayokota/generator-angular-caveman2
 Elixir | [Dynamo](https://github.com/dynamo/dynamo) | [Ecto](https://github.com/elixir-lang/ecto) | https://github.com/rayokota/generator-angular-dynamo
-Erlang | [Axiom](https://github.com/tsujigiri/axiom) | [Sumo DB](https://github.com/inaka/sumo_db) | https://github.com/rayokota/generator-angular-axiom
+Erlang | [Axiom](https://github.com/tsujigiri/axiom) | [SumoDB](https://github.com/inaka/sumo_db) | https://github.com/rayokota/generator-angular-axiom
 F# | [Suave](http://suave.io/) | [ORMLite](https://github.com/ServiceStack/ServiceStack.OrmLite) | https://github.com/rayokota/generator-angular-suave
 Go | [Martini](http://martini.codegangsta.io) | [Gorp](https://github.com/coopernurse/gorp) | https://github.com/rayokota/generator-angular-go-martini
 Groovy | [Ratpack](http://www.ratpack.io/) | [GORM](http://grails.org/doc/2.3.x/guide/GORM.html) | https://github.com/rayokota/generator-angular-ratpack
@@ -21,6 +21,7 @@ OCaml | [Opium](https://github.com/rgrinberg/opium) | [Mirage ORM](https://githu
 Perl | [Mojolicious](http://mojolicio.us) | [DBIx::Class](http://search.cpan.org/perldoc?DBIx::Class) | https://github.com/rayokota/generator-angular-mojolicious
 PHP | [Slim](http://www.slimframework.com/) | [Eloquent ORM](http://laravel.com/docs/eloquent) | https://github.com/rayokota/generator-angular-slim
 Python | [Flask](http://flask.pocoo.org/) | [SQLAlchemy](http://www.sqlalchemy.org) | https://github.com/rayokota/generator-angular-flask
+Racket | [Spin](https://github.com/dmac/spin) | [Racquel](https://github.com/brown131/racquel) | https://github.com/rayokota/generator-angular-spin
 Ruby | [Sinatra](http://www.sinatrarb.com/) | [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) or [DataMapper](http://datamapper.org) | https://github.com/rayokota/generator-angular-sinatra
 Scala | [Scalatra](http://scalatra.org) | [Squeryl](http://squeryl.org) | https://github.com/rayokota/generator-angular-scalatra
 
