@@ -15,6 +15,7 @@ Go | [Martini](http://martini.codegangsta.io) | [Gorp](https://github.com/cooper
 Groovy | [Ratpack](http://www.ratpack.io/) | [GORM](http://grails.org/doc/2.3.x/guide/GORM.html) | https://github.com/rayokota/generator-angular-ratpack
 Haskell | [Scotty](http://hackage.haskell.org/package/scotty) | [Persistent](http://hackage.haskell.org/package/persistent) | https://github.com/rayokota/generator-angular-scotty
 Java | [Dropwizard](http://dropwizard.codahale.com) | [Hibernate](http://hibernate.org/orm) | https://github.com/rayokota/generator-angular-dropwizard
+Java 8 | [Spark](http://sparkjava.com/) | [Hibernate](http://hibernate.org/orm) | https://github.com/rayokota/generator-angular-spark
 Javascript | [Express.js](http://expressjs.com) | [Sequelize](http://sequelizejs.com) | https://github.com/rayokota/generator-angular-express-sequelize
 Lua | [Orbit](http://keplerproject.github.io/orbit/) | [Orbit ORM](http://keplerproject.github.io/orbit/reference.html) | https://github.com/rayokota/generator-angular-orbit
 OCaml | [Opium](https://github.com/rgrinberg/opium) | [Mirage ORM](https://github.com/mirage/orm) | https://github.com/rayokota/generator-angular-opium
