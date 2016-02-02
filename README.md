@@ -25,5 +25,6 @@ PHP | [Slim](http://www.slimframework.com/) | [Eloquent ORM](http://laravel.com/
 Python | [Flask](http://flask.pocoo.org/) | [SQLAlchemy](http://www.sqlalchemy.org) | https://github.com/rayokota/generator-angular-flask
 Racket | [Spin](https://github.com/dmac/spin) | [Racquel](https://github.com/brown131/racquel) | https://github.com/rayokota/generator-angular-spin
 Ruby | [Sinatra](http://www.sinatrarb.com/) | [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) or [DataMapper](http://datamapper.org) | https://github.com/rayokota/generator-angular-sinatra
+Rust | [Nickel](http://www.nickel.rs/) | [Diesel](https://github.com/sgrif/diesel) | https://github.com/rayokota/generator-angular-nickel
 Scala | [Scalatra](http://scalatra.org) | [Squeryl](http://squeryl.org) | https://github.com/rayokota/generator-angular-scalatra
 
