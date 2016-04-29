@@ -12,7 +12,7 @@ Dart | [Start](https://github.com/lvivski/start) | [Dart ORM](https://github.com
 Elixir | [Dynamo](https://github.com/dynamo/dynamo) | [Ecto](https://github.com/elixir-lang/ecto) | https://github.com/rayokota/generator-angular-dynamo
 Erlang | [Axiom](https://github.com/tsujigiri/axiom) | [SumoDB](https://github.com/inaka/sumo_db) | https://github.com/rayokota/generator-angular-axiom
 F# | [Suave](http://suave.io/) | [ORMLite](https://github.com/ServiceStack/ServiceStack.OrmLite) | https://github.com/rayokota/generator-angular-suave
-Frege | [Chinook](https://github.com/fregelab/chinook) | [Sirocco](https://github.com/fregelab/sirocco) | TBD
+Frege | [Chinook](https://github.com/fregelab/chinook) | [Sirocco](https://github.com/fregelab/sirocco) | https://github.com/rayokota/generator-angular-chinook
 Go | [Martini](https://github.com/go-martini/martini) | [Gorp](https://github.com/coopernurse/gorp) | https://github.com/rayokota/generator-angular-go-martini
 Groovy | [Ratpack](http://www.ratpack.io/) | [GORM](http://grails.org/doc/2.3.x/guide/GORM.html) | https://github.com/rayokota/generator-angular-ratpack
 Haskell | [Scotty](http://hackage.haskell.org/package/scotty) | [Persistent](http://hackage.haskell.org/package/persistent) | https://github.com/rayokota/generator-angular-scotty
