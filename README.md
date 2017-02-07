@@ -28,4 +28,5 @@ Racket | [Spin](https://github.com/dmac/spin) | [Racquel](https://github.com/bro
 Ruby | [Sinatra](http://www.sinatrarb.com/) | [ActiveRecord](https://github.com/rails/rails/tree/master/activerecord) or [DataMapper](http://datamapper.org) | https://github.com/rayokota/generator-angular-sinatra
 Rust | [Nickel](http://www.nickel.rs/) | [Diesel](https://github.com/sgrif/diesel) | https://github.com/rayokota/generator-angular-nickel
 Scala | [Scalatra](http://scalatra.org) | [Squeryl](http://squeryl.org) | https://github.com/rayokota/generator-angular-scalatra
+Swift | [Kitura](http://www.kitura.io) | [Fluent](https://github.com/vapor/fluent) | https://github.com/rayokota/generator-angular-kitura
 
